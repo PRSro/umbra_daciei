@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/prsro/Projects/GitHub/Dacia Libera+Fractal CCP/umbra_daciei/build/cmake_install.cmake",
+		"/home/prsro/Projects/GitHub/Dacia Libera+Fractal CCP/umbra_daciei/build/_deps/sdl2-build/cmake_install.cmake",
+		"/home/prsro/Projects/GitHub/Dacia Libera+Fractal CCP/umbra_daciei/build/_deps/sdl2_ttf-build/cmake_install.cmake",
+		"/home/prsro/Projects/GitHub/Dacia Libera+Fractal CCP/umbra_daciei/build/_deps/sdl2_image-build/cmake_install.cmake",
+		"/home/prsro/Projects/GitHub/Dacia Libera+Fractal CCP/umbra_daciei/build/_deps/sdl2_mixer-build/cmake_install.cmake",
+		"/home/prsro/Projects/GitHub/Dacia Libera+Fractal CCP/umbra_daciei/build/_deps/nlohmann_json-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
